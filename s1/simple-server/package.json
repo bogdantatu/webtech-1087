@@ -2,7 +2,7 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "scripts":{
+  "scripts": {
     "start": "npx nodemon server.js"
   }
 }
