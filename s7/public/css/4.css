@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+}
+.menu-bar{
+    background-color: tomato;
+    display:flex;
+    flex-wrap: wrap;
+    width:100%;
+    justify-content: center;
+}
+.menu-item{
+    border: 5px dotted yellow;
+    padding:30px 60px 30px 60px;
+    justify-content: center;
+    margin:5px;
+    
+}
